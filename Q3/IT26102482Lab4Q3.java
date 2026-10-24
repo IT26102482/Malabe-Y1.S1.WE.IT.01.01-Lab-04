@@ -6,7 +6,7 @@ public class IT26102482Lab4Q3
 	{
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("Enter a noumber: ");
+		System.out.print("Enter a number: ");
 		int num = input.nextInt();
 		
 		String result = (num > 0) ? "Positive"
